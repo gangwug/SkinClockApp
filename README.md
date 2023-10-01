@@ -14,4 +14,4 @@ runGitHub("SkinClockApp", "gangwug")
 ```
 
 ## For more information
-Wu G., Ruben M.D., Schmidt R.E., Francey L.J., Smith D.F., Anafi R.C., Hughey J.J., Tasseff R., Sherrill J.D., Oblong J.E., Mills K.J., Hogenesch J.B., Population level rhythms in human skin: implications for circadian medicine. Proc Natl Acad Sci U S A. 2018 Nov 27;115(48):12313-12318.
+Wu G., Ruben M.D., Schmidt R.E., Francey L.J., Smith D.F., Anafi R.C., Hughey J.J., Tasseff R., Sherrill J.D., Oblong J.E., Mills K.J., Hogenesch J.B., Population level rhythms in human skin: implications for circadian medicine. Proc Natl Acad Sci U S A. 2018. 115(48):12313-12318.
